@@ -1,14 +1,3 @@
-languages and codes:
+## Overview
 
-"English": "en"
-"Yoruba": "yo"
-"Afrikaans": "af"
-"Amharic": "am"
-"Igbo": "ig"
-"Hausa": "ha"
-"Swahili": "sw"
-"Shona": "sn"
-"Arabic": "ar"
-"French": "fr"
-"Portuguese": "pt"
-"Zulu": "zu"
+This project aims to create bot that is bot multimodal and multilingual for Africans. We looked at training PaliGemma, a VLM variant of Gemma on Africans languages. The languages we trained on includes English, Yoruba, Afrikaans, Amharic, Igbo, Hausa, Swahili, Shona, Arabic, French, Portuguese, Zulu
